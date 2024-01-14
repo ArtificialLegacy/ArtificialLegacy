@@ -1,7 +1,7 @@
 
 # Current Projects
 
-## [Portfolio Site](https://github.com/ArtificialLegacy/personal_site) *([Live Site](https://artificiallegacy.github.io/personal_site/))*
+## [Portfolio Site](https://github.com/ArtificialLegacy/personal_site) *([Live Site](https://jgoyer.tech/))*
 
 * Built using React and TypeScript, and deployed using GitHub actions.
 

@@ -11,7 +11,7 @@
 
 ## [ImgScal](https://github.com/ArtificialLegacy/imgscal)
 
-* An updated port of Upscale-CLI to go. A tool for automating image processing and managing models. Allows for creation of custom workflows writing in lua.
+* A tool for automating image processing. Allows for creating of custom workflows writing in lua. 
 
 ## [Upscale-CLI](https://github.com/ArtificialLegacy/upscale-cli)
 

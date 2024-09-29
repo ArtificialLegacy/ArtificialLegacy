@@ -1,6 +1,11 @@
 
 # Current Projects
 
+## Go Libraries
+
+* Favicon Images: https://github.com/ArtificialLegacy/go-ico
+* GameMaker Projects: https://github.com/ArtificialLegacy/gm-proj-tool
+
 ## [ImgScal](https://github.com/ArtificialLegacy/imgscal)
 
 * Automate image processing programmatically.
